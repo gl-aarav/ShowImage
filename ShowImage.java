@@ -1,11 +1,10 @@
 /*
- *  date: 
  * ShowImage.java 
  * This program shows:		
- * 1. Using a null layout		
- * 2. loading an image from a file and displays it to the screen		
- * 3. implementing a JLabel component
- * 		4. uses Mouse and Key events
+ * 	1. Using a null layout		
+ *	2. loading an image from a file and displays it to the screen		
+ * 	3. implementing a JLabel component
+ *	4. uses Mouse and Key events
  */ 
 
 import java.awt.Color;
